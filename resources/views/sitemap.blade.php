@@ -1,0 +1,67 @@
+<?php
+echo '<?xml version="1.0" encoding="UTF-8"?>';
+?>
+<urlset
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+    <url>
+        <loc>https://www.ptepromocode.com/</loc>
+        <lastmod>2018-04-20T06:20:36+00:00</lastmod>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://www.ptepromocode.com/buy</loc>
+        <lastmod>2018-04-20T06:20:36+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.ptepromocode.com/how-to-book</loc>
+        <lastmod>2018-04-20T06:20:36+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.ptepromocode.com/pte-faq</loc>
+        <lastmod>2018-04-20T06:20:36+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.ptepromocode.com/refund-policy</loc>
+        <lastmod>2018-04-20T06:20:36+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.ptepromocode.com/blog/</loc>
+        <lastmod>2018-04-20T06:20:36+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.ptepromocode.com/contact-us</loc>
+        <lastmod>2018-04-20T06:20:36+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.ptepromocode.com/blog/pte-speaking-test-reasons-why-people-fail-often/</loc>
+        <lastmod>2018-04-20T06:20:36+00:00</lastmod>
+        <priority>0.64</priority>
+    </url>
+    <url>
+        <loc>https://www.ptepromocode.com/blog/avoid-these-6-blunders-to-score-better-in-pte-exam/</loc>
+        <lastmod>2018-04-20T06:20:36+00:00</lastmod>
+        <priority>0.64</priority>
+    </url>
+    <url>
+        <loc>https://www.ptepromocode.com/blog/ways-to-pass-pte-exam-how-to-mentally-prepare-for-success/</loc>
+        <lastmod>2018-04-20T06:20:36+00:00</lastmod>
+        <priority>0.64</priority>
+    </url>
+    <url>
+        <loc>https://www.ptepromocode.com/blog/things-to-know-about-pte-academic-exam-before-you-plan-to-conquer/</loc>
+        <lastmod>2018-04-20T06:20:36+00:00</lastmod>
+        <priority>0.64</priority>
+    </url>
+</urlset>
